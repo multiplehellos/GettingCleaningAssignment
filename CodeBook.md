@@ -25,5 +25,4 @@
 6. Create a second, independent tidy data set
 		a. tidyData: create the tidy data set
 		b. Tidy.txt - the independent file, in .txt format, of the R script
-	
-	
+		
